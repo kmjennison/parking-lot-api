@@ -4,7 +4,7 @@
 
 Ensure [Poetry](https://python-poetry.org/) is installed.
 
-Then, in the root directory, install dependencies, set up the SQLite database, and load fixtures data::
+Then, in the root directory, install dependencies, set up the SQLite database, and load fixtures data:
 ```
 poetry install
 poetry shell
