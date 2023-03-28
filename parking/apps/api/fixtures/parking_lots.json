@@ -1,0 +1,22 @@
+[
+  {
+    "model": "api.parkinglot",
+    "pk": 1,
+    "fields": {}
+  },
+  {
+    "model": "api.parkinglot",
+    "pk": 2,
+    "fields": {}
+  },
+  {
+    "model": "api.parkinglot",
+    "pk": 3,
+    "fields": {}
+  },
+  {
+    "model": "api.parkinglot",
+    "pk": 4,
+    "fields": {}
+  }
+]

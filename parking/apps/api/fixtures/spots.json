@@ -1,0 +1,211 @@
+[
+  {
+    "model": "api.spot",
+    "pk": 1,
+    "fields": {
+      "parking_lot_id": 1,
+      "spot_type": "car",
+      "pos": 1,
+      "vehicle": 2,
+      "unocc_adj_left": 0
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 2,
+    "fields": {
+      "parking_lot_id": 1,
+      "spot_type": "car",
+      "pos": 2
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 3,
+    "fields": {
+      "parking_lot_id": 1,
+      "spot_type": "motorcycle",
+      "pos": 3,
+      "vehicle": 4
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 4,
+    "fields": {
+      "parking_lot_id": 1,
+      "spot_type": "car",
+      "pos": 4
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 5,
+    "fields": {
+      "parking_lot_id": 1,
+      "spot_type": "car",
+      "pos": 5
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 6,
+    "fields": {
+      "parking_lot_id": 1,
+      "spot_type": "car",
+      "pos": 6
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 7,
+    "fields": {
+      "parking_lot_id": 1,
+      "spot_type": "van",
+      "pos": 7,
+      "vehicle": 7
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 8,
+    "fields": {
+      "parking_lot_id": 1,
+      "spot_type": "car",
+      "pos": 8
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 9,
+    "fields": {
+      "parking_lot_id": 1,
+      "spot_type": "car",
+      "pos": 9
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 10,
+    "fields": {
+      "parking_lot_id": 1,
+      "spot_type": "car",
+      "pos": 10
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 11,
+    "fields": {
+      "parking_lot_id": 1,
+      "spot_type": "car",
+      "pos": 11
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 12,
+    "fields": {
+      "parking_lot_id": 1,
+      "spot_type": "motorcycle",
+      "pos": 12
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 13,
+    "fields": {
+      "parking_lot_id": 1,
+      "spot_type": "motorcycle",
+      "pos": 13
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 14,
+    "fields": {
+      "parking_lot_id": 1,
+      "spot_type": "van",
+      "pos": 14,
+      "unocc_adj_right": 0
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 20,
+    "fields": {
+      "parking_lot_id": 2,
+      "spot_type": "car",
+      "pos": 1,
+      "unocc_adj_left": 0
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 21,
+    "fields": {
+      "parking_lot_id": 2,
+      "spot_type": "car",
+      "pos": 2
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 22,
+    "fields": {
+      "parking_lot_id": 2,
+      "spot_type": "van",
+      "pos": 3,
+      "unocc_adj_right": 0
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 23,
+    "fields": {
+      "parking_lot_id": 3,
+      "spot_type": "van",
+      "pos": 1,
+      "unocc_adj_left": 0
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 24,
+    "fields": {
+      "parking_lot_id": 3,
+      "spot_type": "car",
+      "pos": 2
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 25,
+    "fields": {
+      "parking_lot_id": 3,
+      "spot_type": "car",
+      "pos": 3
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 26,
+    "fields": {
+      "parking_lot_id": 3,
+      "spot_type": "car",
+      "pos": 4,
+      "unocc_adj_right": 0
+    }
+  },
+  {
+    "model": "api.spot",
+    "pk": 27,
+    "fields": {
+      "parking_lot_id": 4,
+      "spot_type": "van",
+      "pos": 1,
+      "unocc_adj_left": 0,
+      "unocc_adj_right": 0
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "model": "api.vehicle",
+    "pk": 1,
+    "fields": {
+      "license_plate": "ABC123",
+      "vehicle_type": "car"
+    }
+  },
+  {
+    "model": "api.vehicle",
+    "pk": 2,
+    "fields": {
+      "license_plate": "DEF456",
+      "vehicle_type": "car"
+    }
+  },
+  {
+    "model": "api.vehicle",
+    "pk": 3,
+    "fields": {
+      "license_plate": "GHI789",
+      "vehicle_type": "van"
+    }
+  },
+  {
+    "model": "api.vehicle",
+    "pk": 4,
+    "fields": {
+      "license_plate": "2FAST",
+      "vehicle_type": "motorcycle"
+    }
+  },
+  {
+    "model": "api.vehicle",
+    "pk": 5,
+    "fields": {
+      "license_plate": "K321XYZ",
+      "vehicle_type": "car"
+    }
+  },
+  {
+    "model": "api.vehicle",
+    "pk": 6,
+    "fields": {
+      "license_plate": "IFW32LS",
+      "vehicle_type": "van"
+    }
+  },
+  {
+    "model": "api.vehicle",
+    "pk": 7,
+    "fields": {
+      "license_plate": "QWERTY",
+      "vehicle_type": "van"
+    }
+  },
+  {
+    "model": "api.vehicle",
+    "pk": 8,
+    "fields": {
+      "license_plate": "2SLOW",
+      "vehicle_type": "motorcycle"
+    }
+  },
+  {
+    "model": "api.vehicle",
+    "pk": 9,
+    "fields": {
+      "license_plate": "ASDFG",
+      "vehicle_type": "van"
+    }
+  }
+]
